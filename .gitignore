@@ -1,0 +1,9 @@
+# Comentario
+# Excluyo carpeta
+**/noLoQuieroEnGit
+# Excluyo Archivo con tal nro de caracteres
+**/???????????1.?x?
+# Excluyo Carpeta dentro de otra carpeta
+**/SubCarpetaQueNo
+# Excluyo Archivo dentro de otra carpeta que va al git
+**/*.?_?
